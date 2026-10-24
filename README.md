@@ -2,6 +2,20 @@
 
 **아주대학교 국제통상 연구회**
 
+## 최종 통합본
+
+[최종 PDF·워드 ZIP 다운로드](https://github.com/jeff020720-oss/jeff/archive/refs/heads/report-final-20261024.zip)
+
+도현우 파트를 통합한 최종본입니다. 본문11pt, 같은서체·왼쪽정렬·자간0, 실제Word각주25개를 적용했습니다. ZIP 안에는 한글 이름과 확장자를 갖춘 PDF·DOCX가 들어 있습니다.
+
+카톡으로 보낼 때는 ZIP을 저장하고 압축을 푼 뒤, 카톡의 **파일 첨부**에서 .pdf 또는 .docx를 선택하세요. 웹 미리보기에서 바로 공유하면 임시 이름이 전달될 수 있습니다.
+
+<details><summary>이전 버전 기록</summary>
+
+# 국제통상 연구보고서
+
+**아주대학교 국제통상 연구회**
+
 ## 각주 기능 수정본
 
 - [Word 파일 — 실제 각주 20개](reports/ajou_trade_report_footnotes.docx)
@@ -29,3 +43,5 @@ PDF는 원본의 페이지·사진 배치를 보존한 58쪽 제출용 파일입
 
 - [이전 PDF](reports/ajou_trade_report.pdf)
 - [이전 워드](reports/ajou_trade_report.docx)
+
+</details>
